@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModelJAVs>
+	<ModelJAV>
+		<id>1</id>
+		<fullname>Shigeo Tokuda</fullname>
+		<YearofBirth>1934</YearofBirth>
+		<film>Ông già vui tính</film>
+		<nationality>Nhật Bản</nationality>
+	</ModelJAV>
+	<ModelJAV>
+		<id>2</id>
+		<fullname>Yua Mikami</fullname>
+		<YearofBirth>1993</YearofBirth>
+		<film>Cô hàng xóm vui tính và anh chủ nhà may mắn</film>
+		<nationality>Nhật Bản</nationality>
+	</ModelJAV>
+	<ModelJAV>
+		<id>3</id>
+		<fullname>Miku Ohashi</fullname>
+		<YearofBirth>1972</YearofBirth>
+		<film>Em đã thích anh lâu lắm rồi</film>
+		<nationality>Nhật Bản</nationality>
+	</ModelJAV>
+	<ModelJAV>
+		<id>4</id>
+		<fullname>Karla Kush</fullname>
+		<YearofBirth>1994</YearofBirth>
+		<film>Anh da đen đã chiếm trọn trái tim em</film>
+		<nationality>Mỹ</nationality>
+	</ModelJAV>
+</ModelJAVs>

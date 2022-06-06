@@ -1,0 +1,9 @@
+D:\C#\QuanLyDienJAV\obj\Debug\QuanLyDienJAV.csproj.AssemblyReference.cache
+D:\C#\QuanLyDienJAV\obj\Debug\QuanLyDienJAV.Properties.Resources.resources
+D:\C#\QuanLyDienJAV\obj\Debug\QuanLyDienJAV.csproj.GenerateResource.cache
+D:\C#\QuanLyDienJAV\obj\Debug\QuanLyDienJAV.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyDienJAV\bin\Debug\QuanLyDienJAV.exe.config
+D:\C#\QuanLyDienJAV\bin\Debug\QuanLyDienJAV.exe
+D:\C#\QuanLyDienJAV\bin\Debug\QuanLyDienJAV.pdb
+D:\C#\QuanLyDienJAV\obj\Debug\QuanLyDienJAV.exe
+D:\C#\QuanLyDienJAV\obj\Debug\QuanLyDienJAV.pdb
